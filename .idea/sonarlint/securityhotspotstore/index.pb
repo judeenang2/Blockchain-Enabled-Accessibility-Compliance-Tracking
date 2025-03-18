@@ -13,3 +13,7 @@ S
 #contracts/improvement-tracking.clar,9/f/9fbd6193eaa9e3a212d2d8e1e8eee888668294eb
 R
 "tests/improvement-tracking.test.ts,9/7/973fc3423875edd0063322d607b5e07dba2b1459
+L
+contracts/user-feedback.clar,d/f/df51878deb5fac425d69ad32378a87c1c9d163be
+K
+tests/user-feedback.test.ts,6/b/6b945f7c1517b7ff8f7001f8f053b0eceb8b897a
